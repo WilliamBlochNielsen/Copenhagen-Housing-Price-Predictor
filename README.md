@@ -23,3 +23,14 @@ The predicted prices are calculated using a linear regression model. The model l
 
 The model uses the formula:
 Predicted Price = Intercept + (Coefficient_1 × Ændring) + (Coefficient_2 × Ændring 1 år)
+
+## Installation
+
+Clone the Repository
+```bash
+https://github.com/WilliamBlochNielsen/Stock-Price-Analysis.git
+```
+Install required
+```bash
+pip install pandas scikit-learn matplotlib
+```
