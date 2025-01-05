@@ -34,5 +34,5 @@ Install required library
 ```bash
 pip install pandas scikit-learn matplotlib
 ```
-# Important Notes on Model Results
+## Important Notes on Model Results
 The results of the current model are subpar, as indcated by the evaluation metrics and the scatter plot of actual vs. predicted prices. The predicted values do not align closely with the actual values, suggesting that the features used may not adequately capture the variability in housing prices and the linear regression model might not be the best fit for this dataset.
